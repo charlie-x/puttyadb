@@ -247,6 +247,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\adb.c" />
     <ClCompile Include="..\..\..\be_all_s.c" />
     <ClCompile Include="..\..\..\callback.c" />
     <ClCompile Include="..\..\..\cmdline.c" />
